@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+#ScreenShots
+
+<p float="left">
+  <img src="https://github.com/gouthamsrikar/payment_app_uiux/blob/master/screenshots/Screenshot_0.png" width="300" />
+  <img src="https://github.com/gouthamsrikar/payment_app_uiux/blob/master/screenshots/Screenshot_1.png" width="300" /> 
+  <img src="https://github.com/gouthamsrikar/payment_app_uiux/blob/master/screenshots/Screenshot_2.png" width="300" />
+  <img src="https://github.com/gouthamsrikar/payment_app_uiux/blob/master/screenshots/Screenshot_3.png" width="300" /> 
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
